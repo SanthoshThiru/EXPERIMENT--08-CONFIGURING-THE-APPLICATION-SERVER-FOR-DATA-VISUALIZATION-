@@ -1,5 +1,8 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
- 
+## NAME: SANTHOSH T
+## REGISTER NUMBER: 212223220100
+## DEPARTMENT: INFORMATION TECHNOLOGY
+
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
@@ -29,7 +32,15 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+![Screenshot 2024-10-28 083907](https://github.com/user-attachments/assets/db4b6b56-7063-4f60-9c87-7804c37d873c)
+![Screenshot 2024-10-28 083916](https://github.com/user-attachments/assets/8271a81b-0a4c-4f39-a691-b938181bb6a5)
+![Screenshot 2024-10-28 083933](https://github.com/user-attachments/assets/d4eecd63-a1ad-4cc2-9c64-28cd8678c217)
+![Screenshot 2024-10-28 084358](https://github.com/user-attachments/assets/6a3f9430-fd24-443c-806a-c828f271a4f8)
+![Screenshot 2024-10-28 084440](https://github.com/user-attachments/assets/0efdd341-1e72-4732-98b6-2f0c88e50258)
+![Screenshot 2024-10-28 084541](https://github.com/user-attachments/assets/2201f6b9-80ac-46bf-97b5-5180fb436595)
+![Screenshot 2024-10-28 093419](https://github.com/user-attachments/assets/db18c0c8-20a0-4e55-9790-eab062ae5d94)
+
+![Screenshot 2024-10-28 090106](https://github.com/user-attachments/assets/a9b5e0e4-ef58-44b6-9056-1ec9689b5914)
 
 
 
